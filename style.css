@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+  background: #fafafa;
+}
+h2 {
+  margin: 12px;
+  color: #333;
+}
+#map {
+  width: 100%;
+  height: 90vh;
+  border-top: 2px solid #ddd;
+}
